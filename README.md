@@ -9,8 +9,8 @@ This python applet handles turning on and off displays over MQTT. This was made 
 Inspiration
 -----------
 
-Code based on Jerrkawz/GarageQTPi
-Idea based on christopherwk210/homebridge-mac-display
+* Code based on Jerrkawz/GarageQTPi
+* Idea based on christopherwk210/homebridge-mac-display
 
 Installation
 ------------
