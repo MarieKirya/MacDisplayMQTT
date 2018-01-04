@@ -1,0 +1,7 @@
+mqtt:
+    host:
+    port:
+    user:
+    password:
+    command_topic:
+    state_topic:
